@@ -11,6 +11,7 @@ namespace AnotherGitTestApp
         static void Main(string[] args)
         {
             Console.WriteLine("Ook!");
+            Console.WriteLine("Миру мир!!!");
             Console.ReadKey();
         }
     }
